@@ -23,4 +23,3 @@ def test_01():
         "certified": "N",
         "wage-plan": "miles",
     }
-    
